@@ -1,0 +1,1 @@
+This repository contains the UI design of our mobile application developed by a team of industrial and computer engineering students for the ENGR 490 course project on 'Sustainable Cities and Communities'. Users can reserve vehicles, pay rental fees online, and access information about charging station locations through the integrated map feature.
